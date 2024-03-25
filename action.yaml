@@ -1,5 +1,5 @@
-name: 'Automatic Releases'
-author: 'BitDEVil2K16 Club'
+name: 'Automatic Releases Action'
+author: 'BitDEVil2K16'
 description:
   'Automate the GitHub release process with assets, changelogs, pre-releases,
   and more'
